@@ -19,7 +19,7 @@ public class TextBoxPage extends BasePage{
     @FindBy(id = "permanentAddress")
     public WebElement permanentAddressInput;
 
-    @FindBy(id = "submit")
+    @FindBy(id = "submit1")
     public WebElement submitBtn;
 
     @Step("Fill In the Text box form with mock data")
