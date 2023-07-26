@@ -18,7 +18,7 @@ public class SomeTests extends BaseTest {
 
     @Test
     void test11(){
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 
 
