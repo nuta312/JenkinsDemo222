@@ -20,6 +20,11 @@ public class SomeTests extends BaseTest {
     void test11(){
         Assert.assertTrue(true);
     }
+    @Test
+    void helloTest(){
+        Assert.assertTrue(true);
+    }
+
 
 
 }
