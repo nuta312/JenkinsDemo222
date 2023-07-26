@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/nuta/IdeaProjects/JenkinsDemo">
+        <classes>
+            <class name="com.demoqa.textBoxTests.TextBoxTests"></class>
+            <class name="com.demoqa.elements.SomeTests"></class>
+        </classes>
+    </test>
+</suite>
